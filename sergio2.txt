@@ -1,0 +1,3 @@
+este es mi blog de notas 
+para
+git
