@@ -4,3 +4,11 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+#container {
+ color: gray;
+ text-align: center;
+ padding: 1em;
+ border: 1 px solid red  ;
+ margin: 0 auto;
+ 
+}
