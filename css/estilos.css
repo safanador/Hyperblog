@@ -12,3 +12,10 @@ body
  margin: 0 auto;
  
 }
+#frame {
+    align-self: center;
+    height: 400px;
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 10%;
+}
